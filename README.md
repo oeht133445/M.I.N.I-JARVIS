@@ -2,7 +2,7 @@
 
 ### Assistant vocal intelligent en Python
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![OS](https://img.shields.io/badge/OS-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
